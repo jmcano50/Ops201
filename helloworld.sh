@@ -1,11 +1,18 @@
 #!/bin/bash
-# Script Name:                  helloworld.sh
+
+# Script Name:                  Demo.sh
 # Author:                       Juan Miguel Cano
-# Date of latest revision:      10/24/2023
-# Purpose:                      To say hello to the world
+# Date of latest revision:      10/25/2023
+# Purpose:                      Demo variables / and functions
+#Execution:                     bash demo.sh or ./demo.sh chmod -x demo.sh
 # Declaration of variables
+
+message="Hello World"
+
 # Declaration of functions
+
 # Main
-echo "Hello World!"
-echo "I am working perfectly"
-# End
+
+echo $message
+
+# Endtouch
