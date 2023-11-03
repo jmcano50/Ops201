@@ -1,14 +1,3 @@
-
-
-
-Unsubscribe from PragerU?
-You haven't opened any emails from this sender in the last month
-UnsubscribeNo thanks
-Conversations
-27.34 GB of 100 GB used
-Terms · Privacy · Program Policies
-Last account activity: 2 days ago
-Details
 PowerShell 7.3.9
 PS C:\Windows\System32> # Task 1: Output all events from the System event log that occurred in the last 24 hours to a file on your desktop named last_24.txt.
 PS C:\Windows\System32> # We use Get-WinEvent to retrieve events from the System event log, filtering by time.
