@@ -12,3 +12,5 @@ Get-WinEvent -LogName System -MaxEvents 20 | Format-Table -AutoSize
 
 # Task 5: Print to the screen all sources of the 500 most recent entries in the System event log. Ensure that the full lines are displayed.
 Get-WinEvent -LogName System -MaxEvents 500 | Format-Table -AutoSize
+
+# Results: https://github.com/jmcano50/ops_challenges/blob/main/Ops9.bat
