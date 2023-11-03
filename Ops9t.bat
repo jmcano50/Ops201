@@ -14,3 +14,8 @@ Get-WinEvent -LogName System -MaxEvents 20 | Format-Table -AutoSize
 Get-WinEvent -LogName System -MaxEvents 500 | Format-Table -AutoSize
 
 # Results: https://github.com/jmcano50/ops_challenges/blob/main/Ops9.bat
+
+Resources Used:
+https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.management/?view=powershell-5.1
+ 
+Chat GPT
