@@ -71,6 +71,8 @@ Did your script remove bloatware?
 •	What did you do to test before/after? 
  
 ## Resources used:
+Photo Link of work: https://docs.google.com/document/d/19PbBtp2lPFwb1hCFAB1nNFuz4kxyrbnlwJCTHL0mWbI/edit?usp=sharing
+
 https://github.com/superswan/Powershell-SysAdmin
 https://chat.openai.com/share/1a85c834-172b-4fd1-aa5d-a1fcb60f3982
 https://chat.openai.com/share/fd2f6df7-b1ae-421a-90bb-af47be91380b
