@@ -4,8 +4,6 @@ November 09, 2023
 
 # Ops Challenge - GitHub
  
-This is my Ops 201 Challanges
-
 ## Ops 201: Foundations of Computer Operations
 
 - [My First Bash Script](Ops2.sh)
@@ -95,3 +93,6 @@ The examples of shell scripting presented in this course can be applied to the w
 4.	**Script Documentation:** Developing a habit of thorough script documentation to make it easier for others to understand and maintain my scripts.
 5.	**Script Integration:** Exploring methods to integrate shell scripts with other programming languages and tools for more versatile automation.
 By focusing on these aspects, I hope to become a more skilled and effective shell script writer in my journey towards mastering system administration and automation.
+
+## Ops 301: Networking and Systems Administration
+- [Append; Date and Time](301Ops1d2.sh)
